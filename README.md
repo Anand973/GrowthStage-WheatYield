@@ -1,6 +1,6 @@
 
 # GrowthStage-WheatYield
-=======
+
 # README — Project Submission
 
 ---
@@ -76,4 +76,4 @@ README.md                                → This file
 ---
 
 *Submitted by the project team, Department of Computer Science & Engineering, Chitkara University, Punjab, India.*
->>>>>>> 2e43c5b (done)
+
