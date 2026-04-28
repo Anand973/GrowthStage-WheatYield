@@ -21,10 +21,10 @@
 
 | # | Name | Roll Number | Email |
 |---|------|-------------|-------|
-| 1 | Diljot Kaur | BE22 | diljot285.be22@chitkara.edu.in |
-| 2 | Bhavya Garg | BE22 | bhavya1442.be22@chitkara.edu.in |
-| 3 | Vanama Anand Gopal | BE22 | vanama1447.be22@chitkarauniversity.edu.in |
-| 4 | Vanshika | BE22 | vanshika2502.be22@chitkara.edu.in |
+| 1 | Diljot Kaur | 2210992285 | diljot285.be22@chitkara.edu.in |
+| 2 | Bhavya Garg | 2210991442 | bhavya1442.be22@chitkara.edu.in |
+| 3 | Vanama Anand Gopal | 2211981447 | vanama1447.be22@chitkarauniversity.edu.in |
+| 4 | Vanshika | 2210992502 | vanshika2502.be22@chitkara.edu.in |
 
 ---
 
