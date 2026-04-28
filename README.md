@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GrowthStage-WheatYield
 =======
 # README — Project Submission
