@@ -1,0 +1,10 @@
+Metric,Model A (Seasonal),Model B (Growth Stage),Improvement
+Number of Features,3,12,+9
+Avg Absolute Correlation,0.1475,0.1492,+1.1%
+Max Absolute Correlation,0.1841,0.2057,+11.8%
+Significant Features,1/3,7/12,+6
+R²,0.0405,0.1991,+392.3%
+Adjusted R²,0.0230,0.1375,+497.8%
+RMSE (q/ha),4.09,3.74,8.6%
+MAE (q/ha),3.16,2.88,8.9%
+Variance Explained (%),4.0%,19.9%,+15.9 pp

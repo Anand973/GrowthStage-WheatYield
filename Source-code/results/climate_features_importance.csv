@@ -1,0 +1,13 @@
+feature,importance
+maturation_rainfall_total,0.0617022401108504
+grain_filling_tmax_mean,0.03711796581578446
+grain_filling_day_night_diff,0.03629442140474108
+flowering_day_night_diff,0.03361608983754211
+maturation_extreme_heat_days,0.03218794193543613
+grain_filling_rainfall_total,0.02810392323646841
+maturation_day_night_diff,0.022927218920867062
+flowering_rainfall_total,0.019120832322766686
+flowering_tmax_mean,0.01773629800347244
+maturation_tmax_mean,0.011684938041530382
+grain_filling_extreme_heat_days,0.00245341291602027
+flowering_extreme_heat_days,0.0

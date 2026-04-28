@@ -1,0 +1,7 @@
+Aspect,Model A (Seasonal),Model B (Growth Stage)
+Temporal Resolution,Low (3 values),High (12 values)
+Agronomic Basis,Limited (general),Strong (physiological)
+Critical Period Detection,Cannot detect,Precise identification
+Adaptation Guidance,Vague recommendations,"Specific, actionable"
+Data Requirements,Minimal,Higher (daily data)
+Overall Assessment,Traditional but limited,"Advanced, more informative"

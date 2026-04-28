@@ -1,0 +1,88 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+<thead>
+
+<tr>
+  <th rowspan="2">S.No.</th>
+  <th rowspan="2">State</th>
+  <th rowspan="2">District</th>
+        <th>2010 - 2011</th>
+            <th>2011 - 2012</th>
+            <th>2012 - 2013</th>
+            <th>2013 - 2014</th>
+            <th>2014 - 2015</th>
+            <th>2015 - 2016</th>
+            <th>2016 - 2017</th>
+            <th>2017 - 2018</th>
+            <th>2018 - 2019</th>
+            <th>2019 - 2020</th>
+            <th>2020 - 2021</th>
+            <th>2021 - 2022</th>
+            <th>2022 - 2023</th>
+      </tr>
+<tr>
+        <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+            <th rowspan="">Yield         (Ton./Ha.)      </th>
+      
+
+</tr>
+</thead>
+<tbody>
+        <tr>
+        <td>1</td>
+        <td>Uttar Pradesh</td>
+        <td>Muzaffarnagar</td>
+                  <td>
+            3.38
+          </td>
+                  <td>
+            3.93
+          </td>
+                  <td>
+            3.65
+          </td>
+                  <td>
+            3.71
+          </td>
+                  <td>
+            2.81
+          </td>
+                  <td>
+            3.57
+          </td>
+                  <td>
+            4.17
+          </td>
+                  <td>
+            3.99
+          </td>
+                  <td>
+            4.25
+          </td>
+                  <td>
+            3.98
+          </td>
+                  <td>
+            4.34
+          </td>
+                  <td>
+            3.96
+          </td>
+                  <td>
+            4.40
+          </td>
+        
+      </tr>
+      
+</tbody>
+</table>
