@@ -69,10 +69,10 @@ Wheat Yield · Temporal Disaggregation · Growth Stage Sensitivity · Climate Ag
 ## File Structure
 
 ```
-GrowthStage-WheatYield/
-├── IPR-Submission-Proof/    # IP documentation and submission evidence
-├── Report-and-PPT/          # Research report and presentation files
-└── Source-code/             # Prediction models and climate data scripts
+GrowthStage-WheatYield
+├── IPR-Submission-Proof    # IP documentation and submission evidence
+├── Report-and-PPT          # Research report and presentation files
+└── Source-code             # Prediction models and climate data scripts
 README.md                                → This file
 ```
 
